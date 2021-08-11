@@ -11,8 +11,8 @@ import Constants from "expo-constants";
 
 // Colours
 export const colors = {
-    primary: "#332424",
-    secondary: "#4D3636",
+    primary: "#1A7DC2",
+    secondary: "#0D4166",
     tertiary: "#E6E6E6",
     alternative: "#999999",
 };
